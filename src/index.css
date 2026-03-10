@@ -1,0 +1,32 @@
+body {
+  background-color: #f5f5f5;  /* light background */
+  color: #333333;             /* dark text */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  color: #333333;             /* table text */
+  background-color: #ffffff;  /* table background */
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+button {
+  background-color: #007bff; /* blue buttons */
+  color: white;              /* button text */
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
