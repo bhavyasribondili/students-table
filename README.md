@@ -35,6 +35,8 @@ This app allows you to **add, edit, delete, and download student data** entirely
 ## **Installation (Local)**
 
 cd students-table
+ git clone https://github.com/bhavyasribondili/students-table.git
+
 
 2. Install dependencies
 npm install
